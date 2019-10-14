@@ -1,2 +1,2 @@
-# DC-Crime-Stats
-An examination into what factors influnece the crime statistics in the DC metro area
+# NBA-Player-Stats
+An examination into NBA player stats for the 2017-2018 season

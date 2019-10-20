@@ -24,11 +24,17 @@ An examination into NBA player stats for the 2017-2018 season
     7. Save file to csv
     
   * Player Stats (David Cimino) - et_plater_stats.py (NBA players from 2017-2018 season)
-    a. Load csv file (664 records), (dataset from Kaggle.com)
-    b. Remove duplicates (540 records)
-    c. Clean up player name column
-    d. Filter columns ("id", "rank", "position", "age", "games", "minutes_played", "true_shooting_percentage", "block_percentage")
-    e. Export stats (NBA_player_stats_final.csv)
+        a. Load csv file (664 records), (dataset from Kaggle.com)
+        b. Remove duplicates (540 records)
+        c. Clean up player name column (remove tags after "\")
+        d. Filter columns ("id", "rank", "position", "age", "games", "minutes_played", "true_shooting_percentage", "block_percentage")
+        e. Export stats (NBA_player_stats_final.csv)
+  
+  * Player Salary (Enock Descopin) load(NBA_season 17_18) 
+     1- Load data from csv file, (450 records), ( dataset from Kaggle.com)
+     2- Filter the headers and rename them.
+     3- rename all the rows in the Name column.
+     4- rename and save the csv file and upload it in github
 
   * Player Measurements
 

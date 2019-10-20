@@ -12,7 +12,7 @@ An examination into NBA player stats for the 2017-2018 season
 1. Download Data Files
 
 2. Transformations 
-  * Player Measurements
+  * Player Measurements (Yamin Alam)
     1. Load Data
     2. Filter to currently active players
     3. Filter Columns ('Player Full Name', 'Height (ft 1/2)', 'Height (inches 2/2)', 'Height (in cm)',

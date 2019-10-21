@@ -8,7 +8,8 @@ An examination into NBA player stats for the 2017-2018 season
 * [Player Measurements](https://www.kaggle.com/whitefero/nba-players-measurements-19472017)
 * [MVP Voting](https://www.kaggle.com/danchyy/nba-mvp-votings-through-history)
 
-##Pipeline
+Pipeline
+
 1. Download Data Files (See data sources above)
 
 2. Transformations 

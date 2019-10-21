@@ -39,9 +39,9 @@ An examination into NBA player stats for the 2017-2018 season
   * Player Measurements
 
   * MVP Voting (Tohibur Paiker)
-     a. Load data from csv (mvp_votings.csv, 636 records), dataset from Kaggle.com
-     b. Filter the data by "season", then filter the season for only 2017-18 season, came out to only 12 records.
-     c. Chose relevant columns to MVP_votings: 'player', 'votes_first', 'points_won', 'points_max', 'award_share'.
-     d. Cleaned up the column names: 'Player',	'Votes',	'Points_won',	'Max_points',	'Award_share'.
+     1. Load data from csv (mvp_votings.csv, 636 records), dataset from Kaggle.com
+     2. Filter the data by "season", then filter the season for only 2017-18 season, came out to only 12 records.
+     3. Chose relevant columns to MVP_votings: 'player', 'votes_first', 'points_won', 'points_max', 'award_share'.
+     4. Cleaned up the column names: 'Player',	'Votes',	'Points_won',	'Max_points',	'Award_share'.
   
 3. Load Data 

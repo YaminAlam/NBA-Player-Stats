@@ -26,7 +26,7 @@ An examination into NBA player stats for the 2017-2018 season
   * Player Stats (David Cimino) - et_plater_stats.py (NBA players from 2017-2018 season)
     1. Load csv file (664 records), (dataset from Kaggle.com)
     2. Remove duplicates (540 records)
-    3. Clean up player name column (remove tags after "\")
+    3. Clean up player name column
     4. Filter columns ("id", "rank", "position", "age", "games", "minutes_played", "true_shooting_percentage", "block_percentage")
     5. Export stats (NBA_player_stats_final.csv)
   

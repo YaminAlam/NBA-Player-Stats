@@ -9,7 +9,7 @@ An examination into NBA player stats for the 2017-2018 season
 * [MVP Voting](https://www.kaggle.com/danchyy/nba-mvp-votings-through-history)
 
 ##Pipeline
-1. Download Data Files
+1. Download Data Files (See data sources above)
 
 2. Transformations 
   * Player Measurements (Yamin Alam)
@@ -31,15 +31,15 @@ An examination into NBA player stats for the 2017-2018 season
     5. Export stats (NBA_player_stats_final.csv)
   
   * Player Salary (Enock Descopin) load(NBA_season 17_18) 
-     1- Load data from csv file, (450 records), ( dataset from Kaggle.com)
-     2- Filter the headers and rename them.
-     3- rename all the rows in the Name column.
-     4- rename and save the csv file and upload it in github
+    1. Load data from csv file, (450 records), ( dataset from Kaggle.com)
+    2. Filter the headers and rename them.
+    3. rename all the rows in the Name column.
+    4. rename and save the csv file and upload it in github
 
   * MVP Voting (Tohibur Paiker)
-     1. Load data from csv (mvp_votings.csv, 636 records), dataset from Kaggle.com
-     2. Filter the data by "season", then filter the season for only 2017-18 season, came out to only 12 records.
-     3. Chose relevant columns to MVP_votings: 'player', 'votes_first', 'points_won', 'points_max', 'award_share'.
-     4. Cleaned up the column names: 'Player',	'Votes',	'Points_won',	'Max_points',	'Award_share'.
+    1. Load data from csv (mvp_votings.csv, 636 records), dataset from Kaggle.com
+    2. Filter the data by "season", then filter the season for only 2017-18 season, came out to only 12 records.
+    3. Chose relevant columns to MVP_votings: 'player', 'votes_first', 'points_won', 'points_max', 'award_share'.
+    4. Cleaned up the column names: 'Player',	'Votes',	'Points_won',	'Max_points',	'Award_share'.
   
 3. Load Data 
